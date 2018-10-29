@@ -2,10 +2,10 @@
 Go Reflect Examples
 
 
+
 [Playground](https://play.golang.org/p/Gw0EzVKUZZn)
 
 ```go
-// Playground: https://play.golang.org/p/Gw0EzVKUZZn
 
 package main
 
