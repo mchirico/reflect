@@ -6,7 +6,6 @@ Go Reflect Examples
 [Playground](https://play.golang.org/p/Gw0EzVKUZZn)
 
 ```go
-
 package main
 
 import (
