@@ -1,10 +1,3 @@
-# reflect
-Go Reflect Examples
-
-
-[Playground](https://play.golang.org/p/Gw0EzVKUZZn)
-
-```go
 // Playground: https://play.golang.org/p/Gw0EzVKUZZn
 
 package main
@@ -40,5 +33,3 @@ func main() {
 	s = append(s, "Fun0", "No Fun", "Fun1")
 	Caller(A{}, s)
 }
-
-```
