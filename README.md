@@ -2,6 +2,8 @@
 Go Reflect Examples
 
 
+[Good Examples](https://github.com/a8m/reflect-examples)
+
 
 [Playground](https://play.golang.org/p/Gw0EzVKUZZn)
 
