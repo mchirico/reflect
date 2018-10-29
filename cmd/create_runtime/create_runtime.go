@@ -7,6 +7,7 @@ import (
 
 type T func(int64, int64) int64
 
+
 func main() {
 	t := reflect.TypeOf(T(nil))
 
