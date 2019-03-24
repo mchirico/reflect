@@ -1,5 +1,9 @@
+[![Build Status](https://travis-ci.org/mchirico/reflect.svg?branch=develop)](https://travis-ci.org/mchirico/reflect)
+
 # reflect
 Go Reflect Examples
+
+[Good Examples](https://github.com/a8m/reflect-examples)
 
 
 
@@ -41,3 +45,5 @@ func main() {
 }
 
 ```
+
+
